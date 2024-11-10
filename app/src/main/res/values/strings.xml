@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">MyApiTest - COLOQUE O SEU NOME AQUI</string>
+    <string name="app_name">MyApiTest - Fernando Gabriel</string>
+    <string name="ano">Ano</string>
+    <string name="licenca">Licença</string>
+    <string name="url_da_imagem">URL da Imagem</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome">Nome</string>
+    <string name="deletar">Deletar</string>
+    <string name="enviar_um_sms">Enviar um SMS</string>
+    <string name="verificar">Verificar</string>
+    <string name="erro_desconhecido_ao_obter_localizacao">Erro desconhecido ao obter localização</string>
+    <string name="nao_foi_possivel_obter_a_localizacao">Não foi possível obter a localização.</string>
+    <string name="nao_foi_possivel_obter_permissao_para_localizacao">Não foi possível obter permissão para localização</string>
+    <string name="por_favor_preencha_todos_os_campos">Por favor, preencha todos os campos.</string>
+    <string name="a_localizacao_nao_foi_obtida_tente_novamente">A localização não foi obtida. Tente novamente.</string>
+    <string name="erro_desconhecido">Erro Desconhecido</string>
+    <string name="carro_salvo_com_sucesso">Carro salvo com sucesso!</string>
+    <string name="carro_nao_encontrado_no_servidor">Carro não encontrado no servidor!</string>
+    <string name="erro_ao_salvar_carro">Erro ao salvar carro.</string>
+    <string name="carro_deletado_com_sucesso">Carro deletado com sucesso!</string>
+    <string name="erro_ao_deletar_carro">Erro ao deletar carro.</string>
+    <string name="codigo_de_verificacao_enviado">Código de verificação enviado.</string>
+    <string name="erro_desconhecido_ao_tentar_enviar_codigo_pelo_sms">Erro desconhecido ao tentar enviar código pelo SMS</string>
+    <string name="e_necessario_preencher_o_numero_de_telefone">É necessário preencher o número de telefone</string>
+    <string name="erro_na_autenticacao_de_usuario">Erro na autenticação de usuário</string>
+    <string name="login">Login</string>
+    <string name="falha_na_comunicacao_com_o_servidor_ao_tentar_obter_a_lista_de_carros">Falha na comunicação com o servidor ao tentar obter a lista de carros</string>
 </resources>
